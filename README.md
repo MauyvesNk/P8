@@ -1,6 +1,6 @@
 Ecole de formation : OpenClassRooms 
 
-Projet : Déployez un modèle dans le cloud
+PROJET 8 : " DÉPLOYEZ UN MODÈLE DANS LE CLOUD "
 
 Sommaire 
 Problématique 
